@@ -1,0 +1,12 @@
+1	The Accounting Software must keep track of the accounting records it is expected to generate and must clearly signal if data associated to any accounting record is missing or incomplete
+2	The system must store and manage accounting records and accounting data into ledger.
+3	The system will allow only permitted users to access through individual login account. They can insert, update and delete data. Users can also generate reports.
+4	Each transaction must have a transaction ID. All entries within a transaction must have the same transaction ID. All the dates and times will be saved automatically.
+5	Current status of any field can be shown
+6	The administrators can search on any fields. 
+7	The system shall automatically send e-mail to the user when a task is forwarded.
+8	The system must ensure database backups, which are as recent and complete as possible 
+9	The interface will be designed in a manner which implements functionalities that are easily accessible by the user, for example by providing a single-click link or drop down list.
+10	Backup files should be in readable file format, using plain text and standard compression formats.
+11	The system may provide a calculator facility to allow the user to make basic calculations 
+12	The system may allow the user to enter a date through using a GUI calendar and selecting the day
